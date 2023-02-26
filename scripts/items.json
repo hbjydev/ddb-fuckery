@@ -1,0 +1,3 @@
+{"PK":"USER#clelkd4zn00002v6kbtr75hwx","SK":"#METADATA#clelkd4zn00002v6kbtr75hwx","UserId": "clelkd4zn00002v6kbtr75hwx","DisplayName":"Hayden Young","Email": "hayden@hbjy.dev","PasswordHash":"$argon2ic$md5$AAAbcsd..."}
+{"PK":"TNNT#clelkd4zn00012v6kr5wj9b1p","SK":"#METADATA#clelkd4zn00012v6kr5wj9b1p","TenantId":"clelkd4zn00012v6kr5wj9b1p","DisplayName":"ACME, inc.","Name":"acme-inc"}
+{"PK":"TNNT#clelkd4zn00012v6kr5wj9b1p","SK":"USER#clelkd4zn00002v6kbtr75hwx","UserId":"clelkd4zn00002v6kbtr75hwx","TenantId":"clelkd4zn00012v6kr5wj9b1p"}
